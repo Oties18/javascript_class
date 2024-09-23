@@ -1,1 +1,1 @@
-##CCT JavaScript Class Projects
+## CCT JavaScript Class Projects
