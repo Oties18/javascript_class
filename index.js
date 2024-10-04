@@ -28,3 +28,8 @@ if (Guess == numberToGuess){
 else {
     console.log("Wrong!");
 }
+
+for(var i= 1; i <= 12; i++){
+    
+    console.log("2" + " " + "x" + " " + "i" + " " + "=" + " " + 2 * i)
+}
