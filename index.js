@@ -101,3 +101,12 @@ for (let i = 1; i <= 100; i++) {
     }
 }
 
+
+// Higher order functions
+
+function greaterThan(n)
+{
+    return m => m > n
+}
+result = greaterThan(10)
+result(12)
